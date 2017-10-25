@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SparkFun-IC-Power.lib)(type Eagle)(uri "$(KIPRJMOD)/SparkFun-IC-Power.lib.lbr")(options "")(descr ""))
+)
